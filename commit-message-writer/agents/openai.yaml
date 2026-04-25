@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Commit Message Writer"
+  short_description: "Draft clear commit messages from current git changes."
+  default_prompt: "Use $commit-message-writer to write a concise commit message from my current git diff."
